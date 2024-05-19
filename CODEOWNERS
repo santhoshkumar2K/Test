@@ -15,3 +15,11 @@ src/com/**/admin/A.java @StephenSteve3
 src/com/repo/org/hg.py @santhoshkumar2K @StephenSteve3
 src/ @StephenSteve3
 **/*.jsp  @santhoshkumar2K
+src/com/repo/org/google/img.jsp @StephenSteve3
+/repo/org/**/img.jsp @santhoshkumar2K
+**/cloud/ @StephenSteve3
+src/com/repo/org/google/server/database/Repo.java  @StephenSteve3
+/database/  @santhoshkumar2K
+ 
+**/*.mark.md @santhoshkumar2K @StephenSteve3
+#/server/**/*.mark.md @StephenSteve3
