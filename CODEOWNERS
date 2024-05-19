@@ -9,3 +9,7 @@ src/com/intel.jsp @StephenSteve3
 src/com/**/ @StephenSteve3
 **/com/**/main.html @santhoshkumar2K @StephenSteve3
 
+src/**/admin/A.java @santhoshkumar2K
+src/**/user/A.java @StephenSteve3
+src/com/**/admin/A.java @StephenSteve3
+src/com/repo/org/hg.py @santhoshkumar2K @StephenSteve3
