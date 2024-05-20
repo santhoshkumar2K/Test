@@ -13,7 +13,7 @@ src/com/ @santhoshkumar2K
 #src/**/admin/A.java @santhoshkumar2K
 #src/**/user/A.java @StephenSteve3
 #src/com/**/admin/A.java @StephenSteve3
-#src/com/repo/org/hg.py @santhoshkumar2K @StephenSteve3
+src/com/repo/org/hg.py @santhoshkumar2K @StephenSteve3
 #src/ @StephenSteve3
 #**/*.jsp  @santhoshkumar2K
 #src/com/repo/org/google/img.jsp @StephenSteve3
