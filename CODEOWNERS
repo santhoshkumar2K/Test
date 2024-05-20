@@ -27,5 +27,5 @@ src/com/repo/org/google/server/database/Repo.java  @StephenSteve3
 src/**/[ABR]*.java  @StephenSteve3
 src/com/*.txt @santhoshkumar2K @StephenSteve3
 src/u/i/*/h/j.java  @StephenSteve3
-src/com/ @santhoshkumar2K
+src/com/A.java @santhoshkumar2K
 
