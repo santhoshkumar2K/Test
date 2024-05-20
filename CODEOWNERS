@@ -2,30 +2,30 @@
 **/src/B.java @santhoshkumar2K
 **/src/A.java  @StephenSteve3
 A.java @santhoshkumar2K
-src/com/ @StephenSteve3
-src/com/*.jsp @santhoshkumar2K
-src/com/intel.jsp @StephenSteve3
-**/repo/A.java @santhoshkumar2K
-src/com/**/ @StephenSteve3
-**/com/**/main.html @santhoshkumar2K @StephenSteve3
+#src/com/ @StephenSteve3
+#src/com/*.jsp @santhoshkumar2K
+#src/com/intel.jsp @StephenSteve3
+#**/repo/A.java @santhoshkumar2K
+#src/com/**/ @StephenSteve3
+#**/com/**/main.html @santhoshkumar2K @StephenSteve3
 
-src/**/admin/A.java @santhoshkumar2K
-src/**/user/A.java @StephenSteve3
-src/com/**/admin/A.java @StephenSteve3
-src/com/repo/org/hg.py @santhoshkumar2K @StephenSteve3
-src/ @StephenSteve3
-**/*.jsp  @santhoshkumar2K
-src/com/repo/org/google/img.jsp @StephenSteve3
-/repo/org/**/img.jsp @santhoshkumar2K
-**/cloud/ @StephenSteve3
-src/com/repo/org/google/server/database/Repo.java  @StephenSteve3
-/database/  @santhoshkumar2K
+#src/**/admin/A.java @santhoshkumar2K
+#src/**/user/A.java @StephenSteve3
+#src/com/**/admin/A.java @StephenSteve3
+#src/com/repo/org/hg.py @santhoshkumar2K @StephenSteve3
+#src/ @StephenSteve3
+#**/*.jsp  @santhoshkumar2K
+#src/com/repo/org/google/img.jsp @StephenSteve3
+#/repo/org/**/img.jsp @santhoshkumar2K
+#**/cloud/ @StephenSteve3
+#src/com/repo/org/google/server/database/Repo.java  @StephenSteve3
+#/database/  @santhoshkumar2K
  
-**/*.mark.md @santhoshkumar2K @StephenSteve3
+#**/*.mark.md @santhoshkumar2K @StephenSteve3
 #/server/**/*.mark.md @StephenSteve3
-*/com/repo/**/table/.java  @santhoshkumar2K
-src/**/[ABR]*.java  @StephenSteve3
-src/com/*.txt @santhoshkumar2K @StephenSteve3
-src/u/i/*/h/j.java  @StephenSteve3
-src/com/A.java @santhoshkumar2K
+#*/com/repo/**/table/.java  @santhoshkumar2K
+#src/**/[ABR]*.java  @StephenSteve3
+#src/com/*.txt @santhoshkumar2K @StephenSteve3
+#src/u/i/*/h/j.java  @StephenSteve3
+#src/com/A.java @santhoshkumar2K
 
