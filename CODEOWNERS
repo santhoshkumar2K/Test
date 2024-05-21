@@ -1,10 +1,11 @@
 #*   @santhoshkumar2K
 **/src/B.java @santhoshkumar2K
 **/src/A.java  @StephenSteve3
-A.java @santhoshkumar2K
-src/com/*.jsp @santhoshkumar2K
-src/com/ @StephenSteve3
-src/com/*.jsp @santhoshkumar2K
+**/src/A.java  @santhoshkumar2K
+#A.java @santhoshkumar2K
+#src/com/*.jsp @santhoshkumar2K
+#src/com/ @StephenSteve3
+#src/com/*.jsp @santhoshkumar2K
 #src/com/ @santhoshkumar2K
 #src/com/*.jsp @santhoshkumar2K
 #src/com/intel.jsp @StephenSteve3
